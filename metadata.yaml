@@ -1,0 +1,26 @@
+_repo: Worlds-of-the-Imperium_65792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, Kit
+    - Laumer, John Keith
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: ''
+gutenberg_issued: '2021-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Worlds of the Imperium
+url: http://www.gutenberg.org/ebooks/65792
